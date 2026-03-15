@@ -7,10 +7,12 @@ I work at the intersection of quantum hardware and deployment; from nanofabricat
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="65%" align="center">
-<img src="climate_qfn.gif" width="100%" alt="Quantum field network climate simulation"/>
+<img src="climate_qfn.gif" width="100%" alt="Quantum field network"/>
+<br/><sub><i>A quantum field network simulating climate dynamics; the kind of system I'm building.</i></sub>
 </td>
 <td width="35%" align="center">
 <img src="bloch_sphere.gif" width="100%" alt="Bloch sphere"/>
+<br/><sub><i>A qubit in superposition. Where it all begins.</i></sub>
 </td>
 </tr>
 </table>
