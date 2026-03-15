@@ -4,7 +4,16 @@ I work at the intersection of quantum hardware and deployment; from nanofabricat
 ## ‧₊𖥧🦋 Socials ‧₊⚘❀༉˚.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacinta-may-quantum) 
 [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://quantummay.substack.com)
-  <img src="climate_qfn.gif" width="65%" alt="Quantum field network climate simulation"/> <img src="bloch_sphere.gif" width="480" align="right" alt="Bloch sphere"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="65%" align="center">
+<img src="climate_qfn.gif" width="100%" alt="Quantum field network climate simulation"/>
+</td>
+<td width="35%" align="center">
+<img src="bloch_sphere.gif" width="100%" alt="Bloch sphere"/>
+</td>
+</tr>
+</table>
 
 # 🍎༻˚₊♡ Tech Stack 🧠📚 ༘⋆₊
 ![PennyLane](https://img.shields.io/badge/PennyLane-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
