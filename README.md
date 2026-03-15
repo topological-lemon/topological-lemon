@@ -4,7 +4,6 @@ I work at the intersection of quantum hardware and deployment; from nanofabricat
 ## ‧₊𖥧🦋 Socials ‧₊⚘❀༉˚.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacinta-may-quantum) 
 [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://quantummay.substack.com)
-<div align="center">
   <img src="climate_qfn.gif" width="65%" alt="Quantum field network climate simulation"/>
 
 # 🍎༻˚₊♡ Tech Stack 🧠📚 ༘⋆₊
