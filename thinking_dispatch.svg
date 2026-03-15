@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDF0FF"/>
+      <stop offset="100%" stop-color="#FFF5FB"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="420" rx="16"
+        fill="url(#bg)"
+        stroke="#CC99FF" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- ── Decorative sparkles ── -->
+  <text x="28"  y="36"  font-family="Georgia, serif" font-size="10" fill="#FF6EC7" opacity="0.4">✦</text>
+  <text x="758" y="30"  font-family="Georgia, serif" font-size="10" fill="#FF6EC7" opacity="0.4">✦</text>
+  <text x="20"  y="212" font-family="Georgia, serif" font-size="10" fill="#FF6EC7" opacity="0.4">✦</text>
+  <text x="758" y="384" font-family="Georgia, serif" font-size="10" fill="#FF6EC7" opacity="0.4">✦</text>
+
+  <!-- ══════════════════════════════════════════════════════
+       LEFT SECTION — what I'm thinking about
+       ══════════════════════════════════════════════════════ -->
+
+  <text x="40" y="52"
+        font-family="Georgia, serif" font-size="13" fill="#9B59B6" font-style="italic">
+    ✦ what I&#x2019;m thinking about
+  </text>
+
+  <!-- Question 1 -->
+  <text x="40" y="88" font-family="Georgia, serif" font-size="10" fill="#FF6EC7">◆</text>
+  <text font-family="Georgia, serif" font-size="12.5" fill="#2D0057">
+    <tspan x="54" y="88">At what qubit count and error rate does VQE</tspan>
+    <tspan x="54" dy="1.5em">become genuinely useful for CO&#x2082; reduction</tspan>
+    <tspan x="54" dy="1.5em">catalyst discovery?</tspan>
+  </text>
+  <line x1="40" y1="145" x2="375" y2="145" stroke="#EDD9FF" stroke-width="0.5"/>
+
+  <!-- Question 2 -->
+  <text x="40" y="165" font-family="Georgia, serif" font-size="10" fill="#FF6EC7">◆</text>
+  <text font-family="Georgia, serif" font-size="12.5" fill="#2D0057">
+    <tspan x="54" y="165">What does post-quantum migration look like</tspan>
+    <tspan x="54" dy="1.5em">for critical infrastructure that cannot</tspan>
+    <tspan x="54" dy="1.5em">simply patch and redeploy?</tspan>
+  </text>
+  <line x1="40" y1="222" x2="375" y2="222" stroke="#EDD9FF" stroke-width="0.5"/>
+
+  <!-- Question 3 -->
+  <text x="40" y="242" font-family="Georgia, serif" font-size="10" fill="#FF6EC7">◆</text>
+  <text font-family="Georgia, serif" font-size="12.5" fill="#2D0057">
+    <tspan x="54" y="242">Who isn&#x2019;t in the room when quantum deployment</tspan>
+    <tspan x="54" dy="1.5em">decisions get made &#x2014; and why does that matter?</tspan>
+  </text>
+  <line x1="40" y1="290" x2="375" y2="290" stroke="#EDD9FF" stroke-width="0.5"/>
+
+  <!-- ══════════════════════════════════════════════════════
+       DIVIDER
+       ══════════════════════════════════════════════════════ -->
+
+  <line x1="400" y1="30" x2="400" y2="390" stroke="#EDD9FF" stroke-width="1"/>
+
+  <!-- ══════════════════════════════════════════════════════
+       RIGHT SECTION — dispatch from the lab
+       ══════════════════════════════════════════════════════ -->
+
+  <text x="420" y="52"
+        font-family="Georgia, serif" font-size="13" fill="#9B59B6" font-style="italic">
+    ✦ dispatch from the lab
+  </text>
+
+  <!-- Date pill -->
+  <rect x="420" y="66" width="110" height="22" rx="11"
+        fill="#F3E5FF" stroke="#CC99FF" stroke-width="0.8"/>
+  <text x="475" y="81"
+        font-family="Georgia, serif" font-size="11" fill="#7B2FBE"
+        text-anchor="middle">March 2026</text>
+
+  <!-- Dispatch body text -->
+  <text font-family="Georgia, serif" font-size="12.5" fill="#2D0057">
+    <tspan x="420" y="118">debugging a VQE ansatz that converges</tspan>
+    <tspan x="420" dy="1.6em">beautifully in simulation and falls apart</tspan>
+    <tspan x="420" dy="1.6em">on hardware. noise is humbling.</tspan>
+  </text>
+
+  <!-- Soft separator -->
+  <line x1="420" y1="182" x2="770" y2="182" stroke="#EDD9FF" stroke-width="0.5"/>
+
+  <!-- Currently reading header -->
+  <text x="420" y="204"
+        font-family="Georgia, serif" font-size="13" fill="#9B59B6" font-style="italic">
+    ✦ currently reading
+  </text>
+
+  <!-- Reading entry 1 -->
+  <text x="420" y="226" font-family="Georgia, serif" font-size="10" fill="#FF6EC7">◆</text>
+  <text x="434" y="226"
+        font-family="Georgia, serif" font-size="11.5" fill="#555555">
+    Cerezo et al. &#x2014; Variational Quantum Algorithms (2021)
+  </text>
+
+  <!-- Reading entry 2 -->
+  <text x="420" y="250" font-family="Georgia, serif" font-size="10" fill="#FF6EC7">◆</text>
+  <text x="434" y="250"
+        font-family="Georgia, serif" font-size="11.5" fill="#555555">
+    Preskill &#x2014; Quantum Computing in the NISQ Era
+  </text>
+
+  <!-- ── Bottom border ── -->
+  <line x1="20" y1="400" x2="780" y2="400" stroke="#EDD9FF" stroke-width="0.5"/>
+
+</svg>
