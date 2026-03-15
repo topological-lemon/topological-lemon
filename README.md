@@ -1,10 +1,10 @@
 # ⊹ ˚｡🍋° ᡣ𐭩₊ Hi, I'm Jacinta ⊹୧ ‧₊˚ 🍓 ⋅☆
-I work at the intersection of quantum hardware and deployment; from nanofabrication in the lab to the systems questions that determine whether quantum technologies create infrastructure or remain experiments.<br><br>My current focus is the real-world implications of frontier quantum tech: post-quantum cryptography migration, quantum simulation for climate-relevant materials, and the gap between NISQ-era results and the fault-tolerant assumptions present in most roadmaps.<br><br>I care deeply about who gets to build this field and what footprint it will leave on this beautiful planet of ours.  <img src="bloch_sphere.gif" width="240" align="right" alt="Bloch sphere"/>
+I work at the intersection of quantum hardware and deployment; from nanofabrication in the lab to the systems questions that determine whether quantum technologies create infrastructure or remain experiments.<br><br>My current focus is the real-world implications of frontier quantum tech: post-quantum cryptography migration, quantum simulation for climate-relevant materials, and the gap between NISQ-era results and the fault-tolerant assumptions present in most roadmaps.<br><br>I care deeply about who gets to build this field and what footprint it will leave on this beautiful planet of ours.  
 
 ## ‧₊𖥧🦋 Socials ‧₊⚘❀༉˚.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacinta-may-quantum) 
 [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://quantummay.substack.com)
-  <img src="climate_qfn.gif" width="65%" alt="Quantum field network climate simulation"/>
+  <img src="climate_qfn.gif" width="65%" alt="Quantum field network climate simulation"/> <img src="bloch_sphere.gif" width="480" align="right" alt="Bloch sphere"/>
 
 # 🍎༻˚₊♡ Tech Stack 🧠📚 ༘⋆₊
 ![PennyLane](https://img.shields.io/badge/PennyLane-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
